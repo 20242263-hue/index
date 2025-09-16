@@ -20,20 +20,22 @@
 build a strong foundation creating <b>interactive and structured web pages.</b>I enjoy exploring new technologies and
  improving my coding skills step by step. My goal is to become proficient in <b>front-end development</b> and eventually work
  on exciting web projects.</p></table>
-<h3><a href="mailto:someone@example.com">My Hobbies</a></h3>
+<h3<u>My Hobbies</u></h3>
 <ul>
     <li>Badminton</li>
     <li>Gaming</li>
     <li>Basketball</li>
 </ul>
-<h3><a href="mailto:someone@example.com">My Favorite Website</a></h3>
+<h3><u>My Favourite Website
+    
+</u></h3>
 <ol>
     <li><a href="https://www.youtube.com/" target="_blank">Youtube</a></li>
     <li><a href="https://www.w3schools.com/" target="_blank">W3Schools</a></li>
 </ol>
 </body>
 </html>
-<p><footer>Contact me:<a href="20242263@s.ubaguio.edu">My UB Email</a>&nbsp;</footer>&nbsp;Phone: <639171129605>
+<p><footer><h3<u>Contact Me:</u></h3><a href="20242263@s.ubaguio.edu">My UB Email</a>&nbsp;</footer>&nbsp;Phone: <639171129605>
     <br>
     <center>>Connect with me:<a href="https://www.facebook.com/">FaceBook</a>&nbsp;
         <a href="https://github.com/">Github</a>&nbsp;
